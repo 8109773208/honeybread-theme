@@ -2,10 +2,12 @@
 #labels Featured
 Currently the Honeybread theme is only available for download from the web. It will eventually be made available on the Android Market. Stay tuned for updates!
 
+----
+
 = Downloads =
 
 == Alpha 2 ==
-http://page/file
+* http://bit.ly/dNqLSw
 
 == Alpha 1 ==
 http://page/file
