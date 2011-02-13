@@ -1,7 +1,13 @@
+#summary Start using Honeybread today!
 #labels Featured
 This is a short guide to get you up and running with the Honeybread theme.
 
 = Installation Instructions =
+== Prerequisites ==
+  * CyanogenMod 7 (The more recent the build, the better)
+  * Some patience
+  * An extra pair of underwear, because when you see this, we can not be liable for what happens
+
 == Initial Installation ==
   # [Download] the Honeybread APK
   # Install the APK
