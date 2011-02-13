@@ -1,30 +1,21 @@
-*Install Instructions
+#labels Featured
+This is a short guide to get you up and running with the Honeybread theme.
 
+= Installation Instructions =
+== Initial Installation ==
+# Download the Honeybread APK
+# Install the APK
+# Open the Theme Chooser app
+# Select the Honeybread theme
+# After it applies, reboot
+# Enjoy!
 
-Download the Honeybread.apk 
-
-Install the APK 
-
-Open the Theme Chooser app
-
-Select the Honybread Theme 
-
-After it applies reboot
-
-Enjoy! 
-
-
-*Update Instructions
-
-
-Open the Theme Chooser
-
-Apply Stock Theme
-
-Install update
-
-Open Theme Chooser 
-
-Select Honeybread 
-
-After it applies reboot
+== Update Instructions ==
+# Open the Theme Chooser
+# Apply Stock Theme
+# Download the updated APK
+# Install the updated APK
+# Open Theme Chooser
+# Select Honeybread
+# After it applies, reboot
+# Enjoy!
