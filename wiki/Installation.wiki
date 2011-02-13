@@ -3,7 +3,7 @@ This is a short guide to get you up and running with the Honeybread theme.
 
 = Installation Instructions =
 == Initial Installation ==
-  # Download the Honeybread APK
+  # [Download] the Honeybread APK
   # Install the APK
   # Open the Theme Chooser app
   # Select the Honeybread theme
@@ -13,7 +13,7 @@ This is a short guide to get you up and running with the Honeybread theme.
 == Update Instructions ==
   # Open the Theme Chooser
   # Apply Stock Theme
-  # Download the updated APK
+  # [Download] the updated APK
   # Install the updated APK
   # Open Theme Chooser
   # Select Honeybread
