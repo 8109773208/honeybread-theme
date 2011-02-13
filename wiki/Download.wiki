@@ -1,4 +1,4 @@
-#summary Start using Honeybread today!
+#summary Get the latest version!
 #labels Featured
 Currently the Honeybread theme is only available for download from the web. It will eventually be made available on the Android Market. Stay tuned for updates!
 
