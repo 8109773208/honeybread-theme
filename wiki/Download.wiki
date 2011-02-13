@@ -1,13 +1,11 @@
 #summary Start using Honeybread today!
+#labels Featured
+Currently the Honeybread theme is only available for download from the web. It will eventually be made available on the Android Market. Stay tuned for updates!
 
-= Introduction =
+= Downloads =
 
-Add your content here.
+== Alpha 2 ==
+http://page/file
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Alpha 1 ==
+http://page/file
