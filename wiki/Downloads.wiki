@@ -1,0 +1,5 @@
+#summary Download Honeybread Theme.
+
+= 05/12/2011 =
+
+Go to haxzamatic.com for the latest nightly builds. (This is a temporary thing, builds will be posted here soon)
