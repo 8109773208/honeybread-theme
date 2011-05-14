@@ -28,4 +28,4 @@
  
 - Subsonic Theme
 
--Widgets for CNN, Gtasks, Engadget, Evernote, Sound Cloud, Seesmic, Twicca, Flixster, NZB Mobile Pro
+-Widgets for CNN, Gtasks, Engadget, Evernote, Sound Cloud, Seesmic, Twicca, Flixster, NZB Mobile Pro, Google Docs 
