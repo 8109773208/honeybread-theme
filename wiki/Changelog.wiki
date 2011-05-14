@@ -1,6 +1,6 @@
 #summary Changelog of recent fixes and additions.
 
-= Honeybread Changelog 05-12-2011 =
+= Honeybread Changelog 05-15-2011 =
 
 - Honeybread is now a 5 in 1 Theme!
 
