@@ -1,0 +1,29 @@
+# Honeybread Changelog 05-15-2011 #
+
+- Honeybread is now a 5 in 1 Theme!
+
+- T-Mobile/Cyanogen Mod Theme
+
+- ADW/ADW EX Theme
+
+- Launcher Pro Plus Theme
+
+- BESTApp Theme
+
+- Wallpaper Picker.
+
+- Redid widget background
+
+- Added new pulsing notifications Gmail, Talk, Email, and Tweetdeck for now
+
+- Redid every pop up box, now everything stretches properly
+
+- Started doing the browser to match Honeycomb
+
+- Keyboard
+
+- New media buttons
+
+- Subsonic Theme
+
+-Widgets for CNN, Gtasks, Engadget, Evernote, Sound Cloud, Seesmic, Twicca, Flixster, NZB Mobile Pro, Google Docs

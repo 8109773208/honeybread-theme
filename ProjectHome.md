@@ -1,0 +1,1 @@
+This theme aims to duplicate the look and "feel" of Honeycomb (Android 3.0). It is designed to work with the new, experimental T-Mobile theme system, which is notably integrated in the CyanogenMod 7 series of ROMs.
